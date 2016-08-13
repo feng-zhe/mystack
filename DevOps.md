@@ -1,9 +1,9 @@
 # CI/CD
 ## SCM
 ### git client-side
-Git
+- Git (client)
 ### git server-side
-- Git daemon: provide git service
+- Git (server)
 - Gitweb: provide web interface
 - Gitolite: control git user
 
