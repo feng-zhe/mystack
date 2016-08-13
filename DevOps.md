@@ -4,8 +4,7 @@
 - Git (client)
 ### git server-side
 - Git (server)
-- Gitweb: provide web interface
-- Gitolite: control git user
+- Gitolite: control git user rights
 
 # Testing
 ## Performance Testing
