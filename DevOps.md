@@ -1,16 +1,18 @@
 # CI/CD
+## Container
+- docker
+- docker-compose
 ## SCM
 ### git client-side
 - Git (client)
 ### git server-side
 - Git (server)
-- Gitolite: control git user rights
 
 # Testing
 ## Performance Testing
-- JMeter
-- Tsung
-- Locust
+- (todo)JMeter
+- (optional)Tsung
+- (optional)Locust
 
 ## UI Testing
-- QUnit
+- (todo)QUnit
