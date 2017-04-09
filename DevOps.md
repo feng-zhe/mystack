@@ -2,17 +2,17 @@
 ## Container
 - docker
 - docker-compose
+- (todo)kubernetes
+
 ## SCM
-### git client-side
-- Git (client)
-### git server-side
-- Git (server)
+### Client Side
+- Git
+### Server Side
+- Git
 
 # Testing
 ## Performance Testing
 - (todo)JMeter
-- (optional)Tsung
-- (optional)Locust
 
 ## UI Testing
 - (todo)QUnit
