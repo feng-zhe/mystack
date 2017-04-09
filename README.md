@@ -1,2 +1,7 @@
 # mystack
-just a list of techs i use
+
+Here lists most technology I use
+
+## TODO
+- Python
+- Ruby
