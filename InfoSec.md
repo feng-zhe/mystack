@@ -5,5 +5,5 @@
 ## Penetration Test
 - metasploit
 ## Binary
-- OllyDBG
-- IDA
+- (todo)OllyDBG
+- (todo)IDA
