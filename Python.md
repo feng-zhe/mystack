@@ -8,6 +8,7 @@
 # Libraries
 - pymongo
 - argparse
+- requests
 - matplotlib (doing)
 - PIL (todo)
 - NetworkX (todo)
