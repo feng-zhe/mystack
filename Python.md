@@ -9,6 +9,8 @@
 - pymongo
 - argparse
 - requests
-- matplotlib (doing)
+- scapy (in process)
+- scrapy (in process)
+- matplotlib (todo)
 - PIL (todo)
 - NetworkX (todo)
