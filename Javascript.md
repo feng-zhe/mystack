@@ -8,6 +8,11 @@
 - gulp
 ## Libraries
 - mongodb
+## Test
+- mockery (todo)
+- sinon (todo)
+- chai (todo)
+- mocha (todo)
 
 # Frontend
 - semantic-ui
