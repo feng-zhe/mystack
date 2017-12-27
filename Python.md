@@ -9,6 +9,7 @@
 - pymongo
 - argparse
 - requests
+- cmd
 - scapy (in process)
 - scrapy (in process)
 - matplotlib (todo)
