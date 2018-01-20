@@ -10,7 +10,7 @@
 - argparse
 - requests
 - cmd
-- pwn (in process)
+- pwntools (in process)
 - scapy (todo)
 - scrapy (todo)
 - matplotlib (todo)
