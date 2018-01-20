@@ -10,8 +10,9 @@
 - argparse
 - requests
 - cmd
-- scapy (in process)
-- scrapy (in process)
+- pwn (in process)
+- scapy (todo)
+- scrapy (todo)
 - matplotlib (todo)
 - PIL (todo)
 - NetworkX (todo)
