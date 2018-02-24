@@ -12,7 +12,7 @@
 - mockery (todo)
 - sinon (todo)
 - chai (todo)
-- mocha (todo)
+- mocha
 
 # Frontend
 - semantic-ui

@@ -4,10 +4,12 @@
 - sqlmap
 ## Penetration Test
 - metasploit
-## Binary
-- (todo)gdb
-- (todo)OllyDBG
+## Binary (linux)
+### Tools
+- pwndbg
 - (todo)IDA
+### Reading
+- <<Learning Linux Binary Analysis>> Ryan "elfmaster" O'Neill
 
-# Reading
-<<Metasploit渗透测试魔鬼训练营>> (skip the code part, will intensively read it after master binary tools)
+# CTF
+- pwnable.tw
