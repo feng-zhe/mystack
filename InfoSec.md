@@ -7,9 +7,12 @@
 ## Binary (linux)
 ### Tools
 - pwndbg
-- (todo)IDA
+- (todo) radare
+- (todo) IDA
 ### Reading
 - <<Learning Linux Binary Analysis>> Ryan "elfmaster" O'Neill
 
 # CTF
-- pwnable.tw
+- picoctf2014
+- (DOING) picoctf2017
+- (TODO) pwnable.tw
