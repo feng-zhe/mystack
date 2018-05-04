@@ -7,6 +7,7 @@
 ## Binary (linux)
 ### Tools
 - pwndbg
+- peda
 - (todo) radare
 - (todo) IDA
 ### Reading
