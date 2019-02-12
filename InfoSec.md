@@ -2,8 +2,15 @@
 ## Web
 - w3af
 - sqlmap
+- dirsearch
+- dirbuster/dirb/gobuster
+- wpscan
+
 ## Penetration Test
 - metasploit
+- nmap
+- msfvenom
+
 ## Binary (linux)
 ### Tools
 - pwndbg
