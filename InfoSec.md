@@ -15,6 +15,7 @@
 ### Tools
 - pwndbg
 - peda
+- (todo) Voltron
 - (todo) radare
 - (todo) IDA
 ### Reading
