@@ -4,12 +4,14 @@
 - sqlmap
 - dirsearch
 - dirbuster/dirb/gobuster
-- wpscan
+- wpscan 
 
 ## Penetration Test
 - metasploit
 - nmap
 - msfvenom
+- impacket
+- smbmap
 
 ## Binary (linux)
 ### Tools
