@@ -12,6 +12,7 @@
 - msfvenom
 - impacket
 - smbmap
+- merlin(todo)
 
 ## Binary (linux)
 ### Tools
