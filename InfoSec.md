@@ -8,12 +8,12 @@
 
 ## Penetration Test
 - metasploit
-- unicorn
+- unicorn: generate powershell scripts as rev shell and msf rc as handler
 - nmap
 - msfvenom
 - impacket
 - smbmap
-- merlin(todo)
+- (todo)[merlin](https://github.com/Ne0nd0g/merlin): similar to meterpreter, written in go.
 
 ## Binary (linux)
 ### Tools
