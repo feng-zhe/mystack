@@ -11,8 +11,9 @@
 - unicorn: generate powershell scripts as rev shell and msf rc as handler
 - nmap
 - msfvenom
-- impacket
-- smbmap
+- impacket: useful scripts to run network requests
+- smbmap: enum smb
+- [rsg](https://github.com/mthbernardes/rsg): just a rev shell cheetsheet.
 - (todo)[merlin](https://github.com/Ne0nd0g/merlin): similar to meterpreter, written in go.
 
 ## Binary (linux)
