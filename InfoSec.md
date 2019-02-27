@@ -14,6 +14,7 @@
 - impacket: useful scripts to run network requests
 - smbmap: enum smb
 - [rsg](https://github.com/mthbernardes/rsg): just a rev shell cheetsheet.
+- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings): useful payloads to bypass web security.
 - (todo)[merlin](https://github.com/Ne0nd0g/merlin): similar to meterpreter, written in go.
 
 ## Binary (linux)
