@@ -17,6 +17,9 @@
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings): useful payloads to bypass web security.
 - (todo)[merlin](https://github.com/Ne0nd0g/merlin): similar to meterpreter, written in go.
 
+## Cipher
+- rumkin.com, rumkin cipher
+
 ## Binary (linux)
 ### Tools
 - pwndbg
