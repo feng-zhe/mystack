@@ -24,9 +24,9 @@
 ### Tools
 - pwndbg
 - peda
-- (todo) Voltron
-- (todo) radare
-- (todo) IDA
+- radare2 (learning)
+- Voltron (todo)
+- IDA (todo)
 ### Reading
 - <<Learning Linux Binary Analysis>> Ryan "elfmaster" O'Neill
 
