@@ -19,3 +19,4 @@
 - react
 - browserify/watchify
 - babel
+- Polymer (todo)
