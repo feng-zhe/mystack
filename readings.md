@@ -8,10 +8,10 @@
 - "总统是靠不住的 : 近距离看美国之二", 林达
 - "我也有一个梦想 : 近距离看美国之三", 林达
 - "如彗星划过夜空 : 近距离看美国之四", 林达
-- "林达近距离看美国系列", 林达
+- "The mansions of philosophy" by will durant
+- "The story of Philosophy" by will durant
 - "霍布斯鲍姆年代四部曲"
 - "The Theory of Moral Sentiments", Adam Smith
-
 
 
 # DONE
