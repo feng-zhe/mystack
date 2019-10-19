@@ -32,5 +32,6 @@
 
 # CTF
 - picoctf2014
-- (DOING) picoctf2017
+- (PENDING) picoctf2017
+- (TODO) picoctf2019
 - (TODO) pwnable.tw
