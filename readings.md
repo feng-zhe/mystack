@@ -5,6 +5,8 @@
 - "如彗星划过夜空 : 近距离看美国之四", 林达
 
 # TODO
+- Moonwalking with Einstein
+- Anki (software for flashcards)
 - "历史深处的忧虑 : 近距离看美国之一", 林达
 - "总统是靠不住的 : 近距离看美国之二", 林达
 - "我也有一个梦想 : 近距离看美国之三", 林达
