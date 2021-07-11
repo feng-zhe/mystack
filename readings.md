@@ -14,6 +14,7 @@
 - "The story of Philosophy" by will durant
 - "霍布斯鲍姆年代四部曲"
 - "The Theory of Moral Sentiments", Adam Smith
+- Principles, by Dalio
 
 
 # DONE
