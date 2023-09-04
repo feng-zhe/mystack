@@ -1,37 +1,52 @@
-# Tools
-## Web
+---
+markmap:
+  initialExpandLevel: 1
+  colorFreezeLevel: 2
+---
+
+# infosec
+
+## pentest
+### scan 
+- nmap
+- smbmap
+- crackmapexec
+### web
 - w3af
 - sqlmap
 - dirsearch
 - dirbuster/dirb/gobuster
 - wpscan 
-
-## Penetration Test
+- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+### framework
 - metasploit
-- unicorn: generate powershell scripts as rev shell and msf rc as handler
-- nmap
+- impacket
+### rev shell
 - msfvenom
-- impacket: useful scripts to run network requests
-- smbmap: enum smb
-- [rsg](https://github.com/mthbernardes/rsg): just a rev shell cheetsheet.
-- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings): useful payloads to bypass web security.
-- (todo)[merlin](https://github.com/Ne0nd0g/merlin): similar to meterpreter, written in go.
-- bloodhound (reveal Active Directory info)
+- [rsg](https://github.com/mthbernardes/rsg)
+- [merlin](https://github.com/Ne0nd0g/merlin)
+### privesc
+- [PEASS-ng](https://github.com/carlospolop/PEASS-ng)
+- unicorn
+- bloodhound
 
-## Cipher
-- rumkin.com, rumkin cipher
-
-## Binary (linux)
-### Tools
+## binary
+### tools
+#### dynamic
 - pwndbg
 - peda
-- ghidra (todo)
-- (suspended)radare2, Voltron, IDA
-### Reading
-- <<Learning Linux Binary Analysis>> Ryan "elfmaster" O'Neill
+#### static
+- (todo) ghidra
+- (todo) radare2
+- (todo) IDA
+### reading
+- (todo) [Learning Linux binary Analysis](https://www.amazon.com/Learning-binary-Analysis-elfmaster-ONeill/dp/1782167102)
 
-# CTF
+## playground
+### CTF
 - picoctf2014
-- (PENDING) picoctf2017
-- (TODO) picoctf2019
-- (TODO) pwnable.tw
+- (todo) picoctf2017
+- (todo) picoctf2019
+- (todo) pwnable.tw
+### pentest lab
+- [Hack The Box](https://www.hackthebox.com/)
