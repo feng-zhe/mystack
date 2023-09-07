@@ -6,29 +6,36 @@ markmap:
 
 # infosec
 
-## pentest
-### scan 
+## scan 
 - nmap
 - smbmap
 - crackmapexec
-### web
+
+## web
 - w3af
 - sqlmap
 - dirsearch
 - dirbuster/dirb/gobuster
 - wpscan 
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
-### framework
+
+## framework
 - metasploit
 - impacket
-### rev shell
+
+## rev shell
 - msfvenom
 - [rsg](https://github.com/mthbernardes/rsg)
 - [merlin](https://github.com/Ne0nd0g/merlin)
-### privesc
+
+## privesc
 - [PEASS-ng](https://github.com/carlospolop/PEASS-ng)
 - unicorn
 - bloodhound
+
+## windows
+### AD
+- concepts
 
 ## binary
 ### tools
