@@ -18,6 +18,11 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
+
+      - name: Install packages
+        run: |
+          curl -sL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
+          sudo apt install nodejs -y
       
       - name: Generates markmap
         run: |
