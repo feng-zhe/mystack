@@ -48,6 +48,9 @@ markmap:
 - python
 
 ## binary
+### concepts
+- buffer overflow
+- double free
 ### tools
 #### dynamic
 - pwndbg
