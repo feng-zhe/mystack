@@ -34,8 +34,18 @@ markmap:
 - bloodhound
 
 ## windows
+### basics
+### scripting
+- (todo) cmd.exe
+- (todo) powershell
 ### AD
 - concepts
+
+## linux
+### basics
+### scripting
+- bash
+- python
 
 ## binary
 ### tools
