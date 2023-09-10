@@ -37,5 +37,5 @@ jobs:
           source-directory: 'output'
           destination-github-username: 'feng-zhe'
           destination-repository-name: 'feng-zhe.github.io'
-          user-email: henryzhefeng+mystackupdate@gmail.com
+          user-email: henryzhefeng+mystackworkflow@gmail.com
           target-branch: main
