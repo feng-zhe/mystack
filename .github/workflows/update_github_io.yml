@@ -1,0 +1,41 @@
+# Re-generates the markmaps and update them to the github.io.
+
+name: Update github.io
+
+on:
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    container: ubuntu
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      
+      - name: Generates markmap
+        run: |
+          mkdir output
+          npx markmap-cli --no-open --offline -o output/InfoSec.html InfoSec.md         
+
+      - name: Push to github.io
+        uses: cpina/github-action-push-to-another-repository@main
+        env:
+          SSH_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+        with:
+          source-directory: 'output'
+          destination-github-username: 'feng-zhe'
+          destination-repository-name: 'feng-zhe.github.io'
+          user-email: henryzhefeng+mystackworkflow@gmail.com
+          target-branch: main
