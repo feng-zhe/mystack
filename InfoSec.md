@@ -45,6 +45,7 @@ markmap:
 ### basics
 ### scripting
 - bash
+  - (todo) awk
 - python
 
 ## binary
