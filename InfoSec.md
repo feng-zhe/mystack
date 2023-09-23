@@ -45,8 +45,7 @@ markmap:
 ### basics
 ### scripting
 - bash
-  - awk
-- python
+- awk
 
 ## binary
 ### concepts
@@ -62,6 +61,13 @@ markmap:
 - (todo) IDA
 ### reading
 - (todo) [Learning Linux binary Analysis](https://www.amazon.com/Learning-binary-Analysis-elfmaster-ONeill/dp/1782167102)
+
+## Language
+- C/C++
+- Java
+- Python
+- Golang
+- Javascript
 
 ## playground
 ### CTF
