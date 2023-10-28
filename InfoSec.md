@@ -12,7 +12,11 @@ markmap:
 - crackmapexec
 
 ## web
+- concepts
 - [OWASP](https://github.com/OWASP/wstg/tree/master/document/4-Web_Application_Security_Testing)
+- web proxy
+  - burp suite
+  - zap
 - w3af
 - sqlmap
 - dirsearch
