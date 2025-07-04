@@ -27,7 +27,7 @@ jobs:
         run: |
           mkdir output
           npx markmap-cli --no-open --offline -o output/InfoSec.html InfoSec.md         
-          npx markmap-cli --no-open --offline -o output/BassStrategies.html BassStrategies.md
+          npx markmap-cli --no-open --offline -o output/BassFishing.html BassFishing.md
 
       - name: Push to github.io
         uses: cpina/github-action-push-to-another-repository@main
