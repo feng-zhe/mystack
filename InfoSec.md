@@ -58,12 +58,16 @@ markmap:
 - double free
 ### tools
 #### dynamic
+- gdb + gef
 - pwndbg
 - peda
 #### static
-- (todo) ghidra
+- ghidra
 - (todo) radare2
 - (todo) IDA
+#### script
+- pwntools
+- pwninit
 ### reading
 - (todo) [Learning Linux binary Analysis](https://www.amazon.com/Learning-binary-Analysis-elfmaster-ONeill/dp/1782167102)
 
